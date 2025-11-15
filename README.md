@@ -177,6 +177,8 @@ CPU Threads: Match your physical cores (not hyperthreads)
 Batch Size: 512 (or 1024 for faster systems)
 ```
 
+!! Max Output Length: 40,960 tokens - at the cost of speed !!
+
 ### Step 4: Test the Configuration
 
 **Quick reasoning test:**
