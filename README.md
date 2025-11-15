@@ -245,11 +245,13 @@ How much does the ball cost?
 |--------|-------|
 | 
 | **Generation Speed** | 10.27 tok/sec |
+
 | **VRAM Usage** | ~10.5 GB |
+
 | **RAM Usage** | ~8 GB |
+
 | **Thinking Overhead** | 2-5x longer responses |
 
-**Preset Configuration:** optimization for LM Studio
 
 ---
 
