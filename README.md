@@ -59,7 +59,7 @@ So the ball is $0.05, bat is $1.05. Total $1.10. The difference between
 bat and ball is exactly $1.00 ($1.05 - $0.05). That checks out.
 ```
 
-**Final Answer:**
+**OUR Final Answer:**
 > The ball costs **$0.05 (5 cents)**.
 >
 > Verification:
