@@ -304,6 +304,12 @@ Found better settings? Have optimization tips?
 
 ---
 
+[![Version](https://img.shields.io/badge/Version-0.3-green.svg)]() 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/captainzero)
+
+---
+
 **Last Updated:** November 2025  
 **Model Version:** qwen3-vl-30b-a3b-thinking  
 **LM Studio Version:** 0.3.31
