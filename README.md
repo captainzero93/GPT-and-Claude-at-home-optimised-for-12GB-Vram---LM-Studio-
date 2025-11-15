@@ -82,7 +82,7 @@ Standard models fail because they pattern-match common wrong answers from traini
 
 ## Optimized Settings Breakdown 
 
-<img width="537" height="671" alt="Top Settings" src="https://github.com/user-attachments/assets/4cf2d794-3b81-45d7-b5d8-3e360c91c899" />
+<img width="537" height="662" alt="Untitled" src="https://github.com/user-attachments/assets/fb7cf199-b11f-4f3f-92be-ac541f933d9d" />
 
 ### Model Load Settings 
 
