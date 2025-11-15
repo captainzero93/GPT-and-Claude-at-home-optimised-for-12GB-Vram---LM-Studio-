@@ -177,7 +177,7 @@ CPU Threads: Match your physical cores (not hyperthreads)
 Batch Size: 512 (or 1024 for faster systems)
 ```
 
-!! Max Output Length: 40,960 tokens - at the cost of speed !!
+!! Max Output Length: 40,960 tokens - at the cost of speed, RAM + VRAM !!
 
 ### Step 4: Test the Configuration
 
@@ -234,7 +234,7 @@ How much does the ball cost?
 ## Performance Benchmarks
 
 **Hardware:** RTX 3060 12GB, Ryzen 5600X, 32GB RAM  
-**Config:** 32.35 GPU layers, 4096 context, Q4_K_M quant
+**Config:** 33 - 35 GPU layers, 4096 context, Q4_K_M quant
 
 | Metric | Value |
 |--------|-------|
