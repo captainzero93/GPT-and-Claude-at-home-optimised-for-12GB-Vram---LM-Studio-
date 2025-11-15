@@ -175,7 +175,7 @@ GPU Layers: Adjust based on VRAM:
   - 8GB VRAM:  20-25 layers
   - 12GB VRAM: 30-35 layers
   - 16GB VRAM: 40-45 layers
-  - 24GB+ VRAM: All 48 layers
+  - 24GB+ VRAM: All 48 layers ( consider a higher Quant )
 
 Flash Attention: ON (critical for performance)
 CPU Threads: Match your physical cores (not hyperthreads)
