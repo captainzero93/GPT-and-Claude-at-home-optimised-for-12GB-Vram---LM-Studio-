@@ -264,6 +264,7 @@ How much does the ball cost?
 
 **Model:** Qwen3-VL-30B-A3B-Thinking by Alibaba Cloud Qwen Team  
 **License:** Apache 2.0  
+** Attribution see: https://github.com/captainzero93/GPT-and-Claude-at-home-optimised-for-12GB-Vram---LM-Studio-/blob/main/NOTICE 
 **Preset Configuration:** optimization for LM Studio
 
 ---
