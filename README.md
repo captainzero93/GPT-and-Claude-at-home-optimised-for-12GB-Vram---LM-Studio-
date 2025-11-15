@@ -112,7 +112,7 @@ Enable the RAG plugin.
 
 ---
 
-## 📋 Custom System Prompt Explained
+## Custom System Prompt Explained
 
 The preset includes a specialized system prompt that structures the model's reasoning:
 
