@@ -227,7 +227,6 @@ How much does the ball cost?
 - Decrease GPU layers by 5-10
 - Reduce context length
 - Lower batch size to 256
-- Consider a smaller quantization (Q4 instead of Q5)
 
 ### Model Doesn't Show Thinking Process
 - Verify you're using the **Thinking** variant (not Instruct)
