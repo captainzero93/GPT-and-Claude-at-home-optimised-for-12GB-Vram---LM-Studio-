@@ -1,6 +1,6 @@
 # Qwen3-VL Thinking Model Configuration for LM Studio
 
-## Claude and ChatGPT at home!
+## Claude and ChatGPT at home! A breakthrough for locally ran LLM's.
 
 ## Why This Model is So Powerful
 
