@@ -26,6 +26,8 @@ Most models quickly say **$0.10** - the intuitive but incorrect answer.
 
 ### Qwen3-VL Thinking Response (Correct):
 
+Thinking phase:
+
 ```
 Thought for 49.71 seconds
 
@@ -60,6 +62,7 @@ bat and ball is exactly $1.00 ($1.05 - $0.05). That checks out.
 ```
 
 **OUR Final Answer:**
+
 > The ball costs **$0.05 (5 cents)**.
 >
 > Verification:
