@@ -232,7 +232,7 @@ How much does the ball cost?
 ## Performance Benchmarks
 
 **Hardware:** RTX 3060 12GB, Ryzen 5600X, 32GB RAM  
-**Config:** 35/48 GPU layers, 4096 context, Q4_K_M quant
+**Config:** 32.35 GPU layers, 4096 context, Q4_K_M quant
 
 | Metric | Value |
 |--------|-------|
