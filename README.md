@@ -280,13 +280,17 @@ Found better settings? Have optimization tips?
 
 ---
 
-## 💡 Pro Tips
+## Pro Tips
 
 1. **Use thinking mode selectively** - Not every query needs deep reasoning
 2. **Increase context for complex tasks** - The model supports 256K tokens natively
 3. **Watch VRAM usage** - Flash Attention helps, but monitor with `nvidia-smi`
 4. **Combine with web search** - Qwen3-VL + RAG = powerful research assistant
 5. **Save good prompts** - Build a library of tested reasoning templates
+
+## Comparison Chart
+
+![table_thinking_vl_30A3](https://github.com/user-attachments/assets/ce30a3f9-3c24-4cf1-b4cc-f903b393b6eb)
 
 ---
 
