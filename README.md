@@ -89,8 +89,8 @@ Standard models fail because they pattern-match common wrong answers from traini
 | Setting | Value | Purpose |
 |---------|-------|---------|
 | **Context Length** | 4096 tokens | Balanced for desktop use (model supports 262K max) |
-| **GPU Offload** | 33/48 layers | Hybrid GPU/CPU split for 8-16GB VRAM systems |
-| **CPU Thread Pool** | 6 threads | Optimal for modern 6-8 core CPUs |
+| **GPU Offload** | 33/35 layers | Hybrid GPU/CPU split for 8-16GB VRAM systems |
+| **CPU Thread Pool** | 8 threads | Optimal for modern 6-8 core CPUs |
 | **Evaluation Batch** | 512 | Larger batches = faster prompt processing |
 | **Flash Attention** | ✅ Enabled | 2-4x faster inference, lower memory |
 | **mmap()** | ✅ Enabled | Memory-mapped file I/O for efficiency |
