@@ -157,11 +157,11 @@ When analyzing images, use <thinking> tags to break down your visual reasoning:
 **Option B: Copy Configuration**
 1. Load the Qwen3-VL-30B-Thinking model
 2. Open **Generation Settings**
-3. Set:
+3. Esruse these settings are applies:
    - Temperature: `0.7`
    - Top P: `0.9`
-   - CPU Threads: `8` (or match your core count)
-4. Copy the system prompt from the JSON file into the **System Prompt** field
+   - CPU Threads: `6` (or match your core count)
+4. Copy the system prompt from the JSON file into the **System Prompt** field and reload model
 
 ### Step 3: Configure Model Loading
 
