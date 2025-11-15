@@ -139,7 +139,7 @@ When analyzing images, use <thinking> tags to break down your visual reasoning:
 1. Open **LM Studio**
 2. Go to **Search** (🔍 icon)
 3. Search for: `https://huggingface.co/unsloth/Qwen3-VL-30B-A3B-Thinking-GGUF`
-4. Download the GGUF version (recommended: Q4_K_M or Q5_K_M for quality/size balance)
+4. Download the GGUF version (recommended: Q4_K_M for quality/size balance)
 
 ### Step 2: Import the Preset
 
