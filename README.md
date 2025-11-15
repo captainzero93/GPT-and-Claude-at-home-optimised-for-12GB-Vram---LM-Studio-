@@ -106,6 +106,8 @@ Standard models fail because they pattern-match common wrong answers from traini
   "cpu_threads": 8,             // Parallel processing
   "system_prompt": "[custom]"   // Structured thinking framework
 }
+
+Enable the RAG plugin.
 ```
 
 ---
