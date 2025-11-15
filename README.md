@@ -8,7 +8,7 @@
 
 ### Key Capabilities
 
-- **256K Native Context Window** (expandable to 1M tokens?)
+- **256K Native Context Window** (Supporting up to 262144 tokens reported by LM Studio)
 - **Advanced Vision Understanding** - OCR, spatial reasoning, video analysis
 - **Explicit Reasoning Process** - Shows its "thought process" before answering
 - **MoE Architecture** - 30B parameters total, 3B active per token (efficient)
