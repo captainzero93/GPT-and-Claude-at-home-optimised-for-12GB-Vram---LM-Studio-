@@ -80,9 +80,11 @@ Standard models fail because they pattern-match common wrong answers from traini
 
 ---
 
-## ⚙️ Optimized Settings Breakdown
+## Optimized Settings Breakdown 
 
-### Model Load Settings (from screenshot)
+<img width="537" height="671" alt="Top Settings" src="https://github.com/user-attachments/assets/9b2804f0-0b79-436b-9792-c4edd2eed608" />
+
+### Model Load Settings 
 
 | Setting | Value | Purpose |
 |---------|-------|---------|
