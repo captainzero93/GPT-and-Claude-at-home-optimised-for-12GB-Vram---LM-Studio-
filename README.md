@@ -1,5 +1,7 @@
 # Qwen3-VL Thinking Model Configuration for LM Studio
 
+## Claude and ChatGPT at home!
+
 ## Why This Model is So Powerful
 
 **Qwen3-VL-30B-A3B-Thinking** represents a breakthrough in multimodal AI reasoning. Unlike standard instruction-tuned models that provide quick answers, the **Thinking variant** engages in explicit step-by-step reasoning before generating responses.
