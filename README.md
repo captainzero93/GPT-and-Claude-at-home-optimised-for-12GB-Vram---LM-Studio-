@@ -87,7 +87,7 @@ Standard models fail because they pattern-match common wrong answers from traini
 
 ## Optimized Settings Breakdown 
 
-<img width="537" height="662" alt="Untitled" src="https://github.com/captainzero93/GPT-and-Claude-at-home-optimised-for-12GB-Vram---LM-Studio-/blob/main/Top%20Settings2.png" />
+<img width="537" height="662" alt="Untitled" src="https://github.com/captainzero93/GPT-and-Claude-at-home-optimised-for-12GB-Vram---LM-Studio-/blob/main/Top%20Settings3.png" />
 
 ### Model Load Settings 
 
