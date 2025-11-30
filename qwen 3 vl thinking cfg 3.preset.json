@@ -1,6 +1,6 @@
 {
-  "identifier": "@local:qwen-3-vl-thinking-cfg-3",
-  "name": "qwen 3 vl thinking cfg 3",
+  "identifier": "@local:qwen-3-vl-thinking-cfg-3.preset.json",
+  "name": "qwen 3 vl thinking cfg 3.preset.json",
   "changed": false,
   "operation": {
     "fields": [
