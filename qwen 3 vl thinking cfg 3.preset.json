@@ -30,7 +30,7 @@ After your thinking process, provide a clear, direct answer to the user's quest
       },
       {
         "key": "llm.prediction.llama.cpuThreads",
-        "value": 8
+        "value": 16
       },
       {
         "key": "llm.prediction.temperature",
