@@ -238,12 +238,12 @@ How much does the ball cost?
 ## Performance Benchmarks
 
 **Hardware:** RTX 4070 12GB, Ryzen 7800X3D, 32GB DDR5 RAM  
-**Config:** 33 - 35 GPU layers, 4096 context ( 8,192, slower, more uses ), Q4_K_M quant
+**Config:** Refer to above image
 
 | Metric | Value |
 |--------|-------|
 | 
-| **Generation Speed** | 10.27 tok/sec |
+| **Generation Speed** | 18.20 tok/sec |
 
 | **VRAM Usage** | ~10.5 GB |
 
