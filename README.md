@@ -6,7 +6,7 @@
 
 **Qwen3-VL-30B-A3B-Thinking** represents a breakthrough in multimodal AI reasoning. Unlike standard instruction-tuned models that provide quick answers, the **Thinking variant** engages in explicit step-by-step reasoning before generating responses.
 
-i1 GUUF Ablitirated: https://huggingface.co/mradermacher/Qwen3-VL-30B-A3B-Thinking-abliterated-i1-GGUF
+i1 GGUF Ablitirated: https://huggingface.co/mradermacher/Qwen3-VL-30B-A3B-Thinking-abliterated-i1-GGUF
 
 ### Key Capabilities
 
